@@ -5,9 +5,7 @@ Beginner QA Engineer. At the moment I study books, articles and video tutorials 
    <a href="https://github-readme-stats.vercel.app/api?username=ferfrat&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=ferfrat&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/ferfrat/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferfrat&layout=compact"/></a>
-</p>
+ </p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/timurkudashov/">
