@@ -2,11 +2,11 @@
 Beginner QA Engineer. At the moment I study books, articles and video tutorials on QA, take part in various webinars and meetings. In addition, I continue my studies at the Skillfactory IT School. as a result of which I plan to become a professional quality control engineer with the knowledge and diploma of an automated tester.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=ferfrat&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=ferfrat&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/ferfrat/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferfrat&layout=compact"/></a>
 </p>
 
 <p align='center'>
